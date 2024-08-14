@@ -17,5 +17,7 @@ The InventoryTracker app provides a robust real-time inventory management system
 
 -User-Friendly Interface: The app features an intuitive and easy-to-navigate interface, allowing users to manage inventory with minimal training. The dashboard provides a comprehensive overview of the inventory, making it easy to track items at a glance.
 
+
+
 Use Case Example:
 Imagine a scenario where a supermarket receives a new shipment of goods. The inventory manager uses the app to add the new items to the inventory by entering the necessary details. Later, as items are sold, the app automatically updates the stock levels in real-time. If a particular item is running low, the app alerts the manager, ensuring that they can reorder in time to avoid stockouts.
